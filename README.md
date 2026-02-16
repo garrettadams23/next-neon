@@ -1,3 +1,17 @@
+# Next.js Expense Tracker
+
+This is a full-stack expense tracking application built with the Next.js framework. It uses Prisma for database interaction with a PostgreSQL database and is styled with Tailwind CSS.
+
+## Technology Stack
+
+- **Framework**: [Next.js](https://nextjs.org/)
+- **UI Library**: [React](https://react.dev/)
+- **Language**: [TypeScript](https://www.typescriptlang.org/)
+- **ORM**: [Prisma](https://www.prisma.io/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
